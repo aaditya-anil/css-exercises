@@ -1,0 +1,19 @@
+.number1{
+    background-color: lightpink;
+    font-family: verdana,DejaVuSans,sans-serif;
+}
+
+#idn1{
+    color: blue;
+    font-size: 38px;
+}
+
+.number1.special{
+    font-size: 24px;
+}
+
+#idn2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
