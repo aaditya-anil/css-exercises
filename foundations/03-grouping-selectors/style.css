@@ -1,0 +1,11 @@
+.ClickBlack{
+    background-color: black;
+    color: white;
+}
+.ClickYellow{
+    background-color: yellow;
+}
+.ClickBlack,.ClickYellow{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', Times, serif;
+}
